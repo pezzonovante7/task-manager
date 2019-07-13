@@ -44,7 +44,7 @@ cursor: pointer;
 } 
 
 button:hover { 
-color: #ffd460; 
+background-color: #ffd460; 
 } 
 
 /* Heading */
